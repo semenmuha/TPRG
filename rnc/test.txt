@@ -1,0 +1,9 @@
+rnc.exe /d:st /p1:0 /p2:1 /f:out.txt
+rnc.exe /d:tr /p1:1 /p2:2 /f:out.txt
+rnc.exe /d:ex /p1:1 /p2:2 /f:out.txt
+rnc.exe /d:nr /p1:1 /p2:2 /f:out.txt
+rnc.exe /d:gm /p1:2 /p2:3 /f:out.txt
+rnc.exe /d:ln /p1:1 /p2:2 /f:out.txt
+rnc.exe /d:ls /p1:1 /p2:2 /f:out.txt
+rnc.exe /d:bi /p1:0.2 /p2:10 /f:out.txt
+
